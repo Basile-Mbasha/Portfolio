@@ -1,4 +1,4 @@
-#-user: Basile M.
+#-author: Basile M.
 #-Date: March 23rd,2022 3:50PM
 # __Heart Design__ in Python using Turtle graphics
 
