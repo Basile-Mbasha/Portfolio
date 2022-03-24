@@ -2,7 +2,6 @@
 #-Date: March 23rd,2022  10:11PM
 #- digital clock in Python
 
-
 import time
 
 while True:
@@ -12,5 +11,8 @@ while True:
   time.sleep(1)
 
 #__happy_coding,...
+
+
+
 
 
